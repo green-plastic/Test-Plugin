@@ -1,5 +1,5 @@
 {
-    "name": "green-plastic/Test-Plugin",
+    "name": "green-plastic/test-plugin",
     "type": "project",
 	"description": "",
     "keywords": ["ExpressionEngine", "plugin"],
