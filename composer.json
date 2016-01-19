@@ -1,0 +1,30 @@
+{
+    "name": "green-plastic/Test-Plugin",
+    "type": "project",
+	"description": "",
+    "keywords": ["ExpressionEngine", "plugin"],
+    "license" : "MIT",
+
+    "authors": [
+        {
+            "name": "green-plastic",
+            "email": "erik.wiedeman@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "dev",
+
+    "require": {
+        "composer/installers": "~1.0"
+    },
+
+    "autoload": {
+        
+    },
+
+	"extra": {
+        "installer-paths": {
+            "system/expressionengine/thirdparty/{$name}": ["vendor/package"]
+        }
+    }
+}

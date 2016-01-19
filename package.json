@@ -1,0 +1,5 @@
+{
+    "name"            : "Test-Plugin",
+    "version"         : "1.0.0",
+    "check_url"       : "https://raw.github.com/green-plastic/Test-Plugin/master/package.json"
+}
