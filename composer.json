@@ -24,7 +24,7 @@
 
 	"extra": {
         "installer-paths": {
-            "system/expressionengine/thirdparty/{$name}": ["vendor/package"]
+            "system/expressionengine/third_party/{$name}": ["green-plastic/test-plugin"]
         }
     }
 }
